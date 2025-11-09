@@ -1,6 +1,6 @@
 # Hi, I'm Tova Kuperman 👋
 
-**Software Engineer | Fullstack Developer**
+**Fullstack Developer**
 
 ---
 
@@ -79,7 +79,7 @@ Aims to lead complex technological projects and provide high-quality and scalabl
 ### 📫 Let's Connect
 <p align="left">
 
-<a href="mailto:tamar0556775210@gmail.com">
+<a href="mailto:matsegett@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
  <p>
