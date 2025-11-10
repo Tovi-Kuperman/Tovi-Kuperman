@@ -6,9 +6,11 @@
 
 ### 🧑‍💻 About Me
 
-Fullstack developer with practical experience in developing advanced Web systems, both on the Backend and Frontend sides.  
-Creative, learns independently quickly, loves challenges and brings an innovative approach to problem solving.  
-Aims to lead complex technological projects and provide high-quality and scalable solutions.
+Full-Stack Developer with hands-on experience in building advanced web systems. 
+Skilled in working with modern technologies, highly creative, and a fast, independent learner. 
+Thrives on challenges and brings an innovative approach to problem-solving. 
+Possesses a comprehensive system perspective, integrates seamlessly into teams, 
+and is driven to lead complex technological projects while delivering high-quality, scalable solutions.
 
 ### 🚀 Tech Stack
 
@@ -16,6 +18,7 @@ Aims to lead complex technological projects and provide high-quality and scalabl
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
+   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=express" />
@@ -45,8 +48,16 @@ Aims to lead complex technological projects and provide high-quality and scalabl
 
 #### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="48" alt="SQL Server"/>
+
+</p>
+
+#### Cloud / Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
 #### Tools
@@ -54,7 +65,7 @@ Aims to lead complex technological projects and provide high-quality and scalabl
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=swagger" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="48" alt="Swagger" />
 </p>
 
 #### IDEs
