@@ -50,8 +50,6 @@ and is driven to lead complex technological projects while delivering high-quali
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="48" alt="SQL Server"/>
-
 </p>
 
 #### Cloud / Deployment
